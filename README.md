@@ -1,12 +1,10 @@
-# 🌟 OpenClaw Skills - Навыки для AI-агента
+<h1 align="center">🌟 OpenClaw Skills - Навыки для AI-агента</h1>
 
-<div align="center">
-
-![OpenClaw Logo](https://img.shields.io/badge/OpenClaw-2026.6.5-blue)
-![Python](https://img.shields.io/badge/Python-3.8+-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenClaw-2026.6.5-blue" alt="OpenClaw Logo">
+  <img src="https://img.shields.io/badge/Python-3.8+-green" alt="Python">
+  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
+</p>
 
 ## 📋 Описание проекта
 
